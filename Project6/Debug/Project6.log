@@ -1,0 +1,4 @@
+﻿  test.c
+D:\秃头日记\Project6\test.c(31,7): warning C4013: “color”未定义；假设外部返回 int
+D:\秃头日记\Project6\test.c(71,8): warning C4013: “colors”未定义；假设外部返回 int
+  Project6.vcxproj -> D:\秃头日记\Project6\Debug\Project6.exe

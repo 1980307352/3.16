@@ -1,0 +1,2 @@
+D:\秃头日记\tetris\Debug\tetris.exe
+D:\秃头日记\tetris\Debug\tetris.pdb
